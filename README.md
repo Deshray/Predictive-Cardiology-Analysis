@@ -72,3 +72,9 @@ While promising, this model must be evaluated on larger and more diverse dataset
    ```bash
    git clone https://github.com/your-username/heart-disease-ml.git
    cd heart-disease-ml
+
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Run the script:
+   python PredictiveCardiologyCode.py
